@@ -1,0 +1,9 @@
+target/
+Cargo.lock
+node_modules/
+frontend/dist/
+backend/.env
+.env
+*.log
+incidents/
+.DS_Store
